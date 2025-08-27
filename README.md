@@ -18,10 +18,16 @@ A secure Retrieval-Augmented Generation (RAG) app that lets users upload documen
 
 To Run Locally
 ----------------
-#Install dependencies
-*pip install -r requirements.txt
-#Run the Streamlit app
-*streamlit run app.py
+# Clone the repo
+git clone https://github.com/your-username/rag-application.git
+cd rag-application
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+
 
 🌟 Future Enhancements
 -----------------------
