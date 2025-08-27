@@ -17,10 +17,10 @@ A secure Retrieval-Augmented Generation (RAG) app that lets users upload documen
 * **Streamlit** – frontend UI
 
 To Run Locally
--------------------
-- Install dependencies
+----------------
+#Install dependencies
 pip install -r requirements.txt
-- Run the Streamlit app
+#Run the Streamlit app
 streamlit run app.py
 
 🌟 Future Enhancements
